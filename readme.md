@@ -1,5 +1,5 @@
-#Blog Web site 
-#authentication and  authorization
+# Blog Web site 
+# authentication and  authorization
 it is contain two view 
 -first view for all user (not logged users)
 -secound view for logged users  as ( Admin OR Users)
